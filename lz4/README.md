@@ -181,10 +181,6 @@ Other files present in the directory are not source code. They are :
  - `liblz4.pc.in` : for `pkg-config` (used in `make install`)
  - `README.md` : this file
 
-[official interoperable frame format]: ../doc/lz4_Frame_format.md
-[LZ4 Frame format]: ../doc/lz4_Frame_format.md
-[LZ4 block format]: ../doc/lz4_Block_format.md
-
 
 #### License
 
