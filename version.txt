@@ -1,0 +1,5 @@
+brotli: latest (5fa73e2)
+lizard version: latest (d3becc7)
+lz4 version: latest (446a35f)
+lz5 version: lizard commit 902f039
+zstd: latest (ae9f20c)
