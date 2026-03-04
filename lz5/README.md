@@ -15,7 +15,3 @@ A more complex "lz5frame_static.h" is also provided, although its usage is not r
 The other files are not source code. There are :
 
  - LICENSE : contains the BSD license text
- - Makefile : script to compile or install lz5 library (static or dynamic)
- - liblz5.pc.in : for pkg-config (make install)
-
-[official interoperable frame format]: ../lz5_Frame_format.md
