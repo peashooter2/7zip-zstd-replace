@@ -1,4 +1,4 @@
-brotli: latest (54f74c7)
+brotli: latest (0ed4268)
 lizard version: latest (d3becc7)
 lz4 version: latest (446a35f)
 lz5 version: lizard commit 902f039
