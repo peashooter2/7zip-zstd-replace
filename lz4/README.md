@@ -177,8 +177,6 @@ The compiled executable will require LZ4 DLL which is available at `dll\liblz4.d
 Other files present in the directory are not source code. They are :
 
  - `LICENSE` : contains the BSD license text
- - `Makefile` : `make` script to compile and install lz4 library (static and dynamic)
- - `liblz4.pc.in` : for `pkg-config` (used in `make install`)
  - `README.md` : this file
 
 
